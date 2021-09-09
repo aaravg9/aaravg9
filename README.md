@@ -1,5 +1,6 @@
 ### Hello Welcome To My Profile👋
 
+![Visitor Count](https://profile-counter.glitch.me/{aaravg9}/count.svg)
 
 - 🔭 I’m currently working on ... Coding
 - 🌱 I’m currently learning ... PHP
