@@ -3,7 +3,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{aaravg9}/count.svg)
 
 - 🔭 I’m currently working on ... Coding
-- 🌱 I’m currently learning ... PHP
+- 🌱 I’m currently learning ... SwiftUi
 - 👯 I’m looking to collaborate on ... html
 - 🤔 I’m looking for help with ... Youtube
 - 💬 Ask me about ... Anything
